@@ -17,6 +17,9 @@ At one stage it was building and the app ran though the fan speeds were not bein
 
 Please be sure to understand what this does and how to use it.
 
+See [Project-Guide](./Project-Guide.md)
+
+
 ### Usage Instructions for Open Interpreter
 
 Use the `-y` flag to automatically accept the prompt and the -custom instruction flag to point at the entry point `-ci "look for a file .project_guide/implementation_plan.md and follow the instructions in it."`  
