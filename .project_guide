@@ -1,0 +1,59 @@
+# Open Interpreter Project Guide
+
+This guide and its referenced files serve as a dynamic knowledge base to enhance Open Interpreter's capabilities for self-healing and continuous improvement.
+
+## Purpose
+The files in this project structure are designed to organically evolve and guide Open Interpreter in:
+- Learning from past interactions
+- Improving decision-making processes
+- Maintaining consistent behavior patterns
+- Self-healing through error recognition and correction
+- Building upon successful patterns and solutions
+
+## Project Files Structure
+
+### Documentation Files (.project/docs/)
+
+1. knowledge.md
+   - Purpose: Core knowledge repository
+   - Contains: Learnings, patterns, and successful solutions
+   - Self-healing: Updates with new validated knowledge
+
+2. processes.md
+   - Purpose: Workflow and decision-making guidelines
+   - Contains: Step-by-step procedures and best practices
+   - Self-healing: Refines processes based on outcomes
+
+3. wip.md
+   - Purpose: Active development and temporary solutions
+   - Contains: Current experiments and improvements in progress
+   - Self-healing: Regular review and promotion to permanent knowledge
+
+### Scripts (.project/scripts/)
+
+1. README.md
+   - Purpose: Script documentation and usage guidelines
+   - Contains: Implementation details and execution patterns
+   - Self-healing: Updates with new automation patterns
+
+## Self-Healing Mechanism
+
+1. Each interaction should:
+   - Reference these guides for consistent behavior
+   - Document new learnings in appropriate files
+   - Update processes based on outcomes
+   - Move validated solutions from WIP to permanent knowledge
+
+2. Continuous Improvement:
+   - Regular review of WIP items
+   - Pattern recognition in successful solutions
+   - Integration of new knowledge into core processes
+   - Refinement of existing documentation
+
+## Usage Instructions for Open Interpreter
+
+1. Always check this guide first
+2. Follow documented processes
+3. Document new solutions
+4. Update relevant files after successful interactions
+5. Maintain self-healing cycle through documentation updates
