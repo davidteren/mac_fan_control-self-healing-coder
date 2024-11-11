@@ -51,6 +51,3 @@ swift build
 ```bash
 sudo .build/debug/MacFanControl
 ```
-
-
-
